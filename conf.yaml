@@ -37,7 +37,7 @@ email_push:
 rss_subscribe:
   enable: true
   github_username: willow-god
-  github_repo: Friend-Circle-Lite
+  github_repo: 朋友圈精简版
   your_blog_url: https://seln.cn/
   email_template: "./push_templates/default.html"
   website_info:
